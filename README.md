@@ -14,7 +14,7 @@ Then run the notebook using Jupyter Notebook or Jupyter Lab.
 jupyter notebook
 ```
 
-### Design
+### Design
 
 The system works in 3 stages:
 
@@ -25,6 +25,10 @@ The system works in 3 stages:
 See Jupyter Notebook for more details.
 
 ### Results
+
+| Test Set      | Model     | Result | Num Questions |
+|---------------|-----------|--------|---------------|
+| Formal Logic  | 3.5 Turbo | 48%    | 25            | 
 
 
 ### Acknowledgements
