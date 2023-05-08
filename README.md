@@ -1,4 +1,4 @@
-# smart-gpt
+# Smart GPT
 
 Implementation of SmartGPT as an experiment to see perfomance vs [MMMLU](https://github.com/hendrycks/test) benchmark.
 
