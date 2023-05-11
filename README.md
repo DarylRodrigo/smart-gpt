@@ -28,7 +28,8 @@ See Jupyter Notebook for more details.
 
 | Test Set      | Model     | Result | Num Questions |
 |---------------|-----------|--------|---------------|
-| Formal Logic  | 3.5 Turbo | 48%    | 25            | 
+| Formal Logic  | smartGPT3.5 Turbo | 48%    | 25            | 
+| Formal Logic  | smartGPT4 | 64%    | 25            | 
 
 
 ### Acknowledgements
